@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+
+# Executable
+traffic_sim
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Debug files
+*.dSYM/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
