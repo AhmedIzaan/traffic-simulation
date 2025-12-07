@@ -403,13 +403,7 @@ enum class ScenarioCommand { NONE, GREEN_WAVE, PARKING_FULL, GRIDLOCK };
 
 ## 📄 License
 
-This project is created for educational purposes as part of the Operating Systems course.
+This project is created as part of a semester project of the operating system course.
 
 ---
 
-## 📚 References
-
-- [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
-- [SFML Documentation](https://www.sfml-dev.org/documentation/)
-- [Linux man pages - pipe(2)](https://man7.org/linux/man-pages/man2/pipe.2.html)
-- [Semaphores in C](https://man7.org/linux/man-pages/man7/sem_overview.7.html)
